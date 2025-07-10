@@ -51,3 +51,27 @@
     margin-top: 230px;
    
   }
+  /* *action section style */
+  .action{
+    display: flex;
+    margin: 150px;
+    gap: 200px;
+    padding: 20px;
+  }
+  .action-title{
+    font-weight: bold;
+    font-size: 38px;
+  }
+  .action-dec{
+    font-size: 20px;
+    font-weight:400;
+    color: #706e83;
+  }
+  .action-image{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
+  }
+  .action-content{
+    margin: 20px;
+  }
