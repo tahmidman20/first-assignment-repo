@@ -29,6 +29,9 @@
     background-color: #fbbdcd;
     color: black;
  }
+ body{
+    background-color: #f4f3ff;
+ }
   /* *banner style */
   .banner{
    text-align: center;
@@ -51,6 +54,7 @@
     margin-top: 230px;
    
   }
+ 
   /* *action section style */
   .action{
     display: flex;
@@ -112,7 +116,36 @@
     border-radius: 30px;
     padding: 40px;
  }
-
-
-  
+ 
+ /* *review section style */
+ .review-sec-title{
+    text-align: center;
+ }
+ .review{
+    margin: 150px;
+ }
+ .main-review-sec{
+    display: flex;
+    gap: 20px;
+   
+ }
+ .review-div{
+    padding: 20px;
+    background-color: white;
+    border-radius: 14PX;
+ }
+.review-profile{
+    border-radius: 30px;
+}
+.review-footer{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.date{
+    color: #00000080;
+} 
+.profile-n-d{
+   
+}
  
