@@ -14,7 +14,7 @@
  .nav-logo{
     font-weight: 700;
     font-size: 36px;
-    color: rgb(202, 28, 89);
+    color: #ca1c59;
  }
  .primary-btn{
     background-color: rgb(189, 12, 80);
@@ -75,3 +75,44 @@
   .action-content{
     margin: 20px;
   }
+  /* *productive user section style */
+  .productive-user{
+    text-align: center;
+  }
+  .productive-user-content{
+    display: flex;
+    justify-content: center;
+    
+    
+  }
+  .productive-user-heading{
+    font-weight: bold;
+    font-size: 60px;
+    color: #ca1c59;
+    
+ }
+ .productive-user-dec{
+    font-weight: 300;
+    font-size: 20px;
+    color: #0000007d;
+    margin-right:40px;
+    margin-top:0px;
+    gap: 10px;
+    padding: 50px;
+    justify-content: center;
+ }
+ .main-dec{
+    font-weight: bold;
+    font-size: 30px;
+    margin: 30px;
+ }
+ .productive-user{
+    background-color: #c3c2cb;
+    margin: 90px;
+    border-radius: 30px;
+    padding: 40px;
+ }
+
+
+  
+ 
