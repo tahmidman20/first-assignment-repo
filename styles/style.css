@@ -187,6 +187,10 @@
     font-weight: bold;
     font-size: 77px;
  }
+ #from-btn button:hover{
+    background-color: #fbbdcd;
+    color: black;
+ }
  /* *footer section style */
  footer{
    background-color: white;
