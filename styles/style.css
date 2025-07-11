@@ -112,9 +112,9 @@
  }
  .productive-user{
     background-color: #c3c2cb;
-    margin: 90px;
+    margin: 140px;
     border-radius: 30px;
-    padding: 40px;
+     padding: 40px;
  }
  
  /* *review section style */
@@ -187,4 +187,31 @@
     font-weight: bold;
     font-size: 77px;
  }
- 
+ /* *footer section style */
+ footer{
+   background-color: white;
+   text-align: center;
+   width: 100%;
+ }
+ .footer-logo{
+   font-weight: bold;
+   color: #ca1c59;
+   font-size: 90px;
+   padding-top: 100px;
+ }
+ .footer-menu{
+   text-decoration: none;
+   padding-bottom: 100px;
+   
+
+ }
+ a{
+   text-decoration: none;
+   margin: 40px;
+   margin-bottom: 100px;
+   color: #000000a2;
+ }
+ .footer-dec{
+   color: #000000a2;
+   font-size: 20px;
+ }
